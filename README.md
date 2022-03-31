@@ -6,6 +6,6 @@
 :three: 2_Architecture</br>
 :four: 3_Implementation</br>
 :five: 4_TestPlanAndOutput</br>
-:six:5_Report</br>
-:seven:6_ImageAndVideo</br>
-:eight:7_Other</br>
+:six: 5_Report</br>
+:seven: 6_ImageAndVideo</br>
+:eight: 7_Other</br>
