@@ -1,11 +1,12 @@
 
-**# REQUIREMENTS**
+# REQUIREMENTS
 
-**#INTRODUCTION:** The project is to predict the electricity bill of next month by taking input of appliance or load used,and this application based mini project is the Electric Bill calculator project. The visual studio code tool is used for writing the code in this project. This project has multi file and multiplatform approach.
+# INTRODUCTION 
+The project is to predict the electricity bill of next month by taking input of appliance or load used,and this application based mini project is the Electric Bill calculator project. The visual studio code tool is used for writing the code in this project. This project has multi file and multiplatform approach.
 
-**#RESEARCH**
+# RESEARCH
 
-** This application is to predict electricity bill of upcoming months for the people who don’t have technical knowledge of calculating electricity bill. However, the defining features of an electricity bill calculator include:**
+ This application is to predict electricity bill of upcoming months for the people who don’t have technical knowledge of calculating electricity bill. However, the defining features of an electricity bill calculator include:
 
 - current rating of all loads
 - total load speculation
@@ -19,14 +20,13 @@ In addition, high-end electricity bill calculators generally include:
 - Calculation of bill based on units consumed
 
 
-**Defining System:** 
+Defining System 
 
 The unit testing algorithm is used for design and testing operations of electricity bill calculator. 
 
+Strengths: Creative, Easy-to-use.
 
-**Strengths:** Creative, Easy-to-use.
-
-**Weakness**: Cost of calculator increases as features added in the calculator increase.
+Weakness: Cost of calculator increases as features added in the calculator increase.
 
 Opportunities: We know that we mostly use traditional method for calculation. So technology involved market is always an eye catcher for the youth.
 
